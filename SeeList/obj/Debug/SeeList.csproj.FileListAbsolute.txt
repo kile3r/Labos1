@@ -1,1 +1,6 @@
 C:\Users\Kristijan\Documents\GitHub\SeeList\SeeList\bin\Debug\SeeList.exe.config
+C:\Users\Kristijan\Documents\GitHub\SeeList\SeeList\bin\Debug\SeeList.exe
+C:\Users\Kristijan\Documents\GitHub\SeeList\SeeList\bin\Debug\SeeList.pdb
+C:\Users\Kristijan\Documents\GitHub\SeeList\SeeList\obj\Debug\SeeList.csprojResolveAssemblyReference.cache
+C:\Users\Kristijan\Documents\GitHub\SeeList\SeeList\obj\Debug\SeeList.exe
+C:\Users\Kristijan\Documents\GitHub\SeeList\SeeList\obj\Debug\SeeList.pdb
